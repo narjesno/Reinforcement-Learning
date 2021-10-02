@@ -1,0 +1,1 @@
+Using various policies to solve n-armed-bandit issues and identify the path with the least amount of regret. Policy gradient and Thompson sampling were two of the policies utilised in this project. The Amalearn library is used to create all of the settings and agents.
