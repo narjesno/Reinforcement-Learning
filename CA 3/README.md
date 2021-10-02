@@ -1,0 +1,1 @@
+The implementation of the jack's rental car with the AMALearn package is intended to pave the path for improved models that separate the agent and the environment. The problem is the same as the one addressed in the 4th chapter of Richard Sutton and Andrew G. Barto's Reinforcement Learning An Introduction.
